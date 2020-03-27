@@ -1,0 +1,135 @@
+
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy M30s ",
+      "cover": "Samsung Galaxy M30s ",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    },
+    {
+      "id": 2,
+      "name": "LG 1.5 Ton 3 Star Window Dual Inverter AC - White  (JW-Q18WUXA1, Copper Condenser)",
+      "cover": "LG AC",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+     
+    },
+    {
+      "id": 3,
+      "name": "Apple iPhone 8 Plus (Gold, 64 GB)",
+      "cover": "Apple iPhone",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    
+    },
+    {
+      "id": 4,
+      "name": "Thomson R9 60cm (24 inch) HD Ready LED TV",
+      "cover": "Thomson HD LED TV",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    },
+    {
+      "id": 5,
+      "name": "IFB 6 kg 2D Washing Machine",
+      "cover": "porcupine_tree",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    
+    },
+    {
+      "id":6,
+      "name":"JBL Flip 3 Stealth Waterproof Portable Bluetooth Speaker "
+    },
+    {
+      "id":7,
+      "name":"Samsung Flip 3 Stealth Waterproof Portable Bluetooth Speaker "
+    },
+    {
+      "id":8,
+      "name":"Sony  Waterproof Portable Bluetooth Speaker "
+    },
+    {
+      "id":9,
+      "name":"Micromax  Stealth Waterproof Portable Bluetooth Speaker "
+    },
+    {
+      "id":10,
+      "name":"Lg Waterproof  Bluetooth Speaker with Rich Deep Bass (Black), Without Mic"
+    }
+
+  ],
+  "price": [
+    {
+      "productId": 1,
+      "price": 40,
+      "backgroundImageURL": "http://sandbox.bottlerocketapps.com/BR_iOS_CodingExam_2015_Server/Images/hopdoddy.png"
+     
+    },
+    {
+      "productId": 2,
+      "price": 50,
+      "backgroundImageURL": "http://sandbox.bottlerocketapps.com/BR_iOS_CodingExam_2015_Server/Images/pappadeaux.png"
+     
+    },
+    {
+      "productId": 3,
+      "price": 60,
+      "backgroundImageURL": "http://sandbox.bottlerocketapps.com/BR_iOS_CodingExam_2015_Server/Images/yardhouse.png"
+      
+     
+    },
+    {
+      "productId": 4,
+      "price": 35,
+      "backgroundImageURL": "http://sandbox.bottlerocketapps.com/BR_iOS_CodingExam_2015_Server/Images/pluckers.png"
+      
+     
+    },
+    {
+      "productId": 5,
+      "price": 80,
+      "backgroundImageURL": "http://sandbox.bottlerocketapps.com/BR_iOS_CodingExam_2015_Server/Images/ramen_hakata.png"
+      
+     
+    },
+    {
+      "productId": 6,
+      "price": 10,
+      "backgroundImageURL": "http://sandbox.bottlerocketapps.com/BR_iOS_CodingExam_2015_Server/Images/ramen_hakata.png"
+      
+     
+    },
+    {
+      "productId": 7,
+      "price": 6,
+      "backgroundImageURL": "http://sandbox.bottlerocketapps.com/BR_iOS_CodingExam_2015_Server/Images/ramen_hakata.png"
+      
+     
+    },
+    {
+      "productId": 8,
+      "price": 11,
+      "backgroundImageURL": "http://sandbox.bottlerocketapps.com/BR_iOS_CodingExam_2015_Server/Images/ramen_hakata.png"
+      
+     
+    },
+    {
+      "productId": 9,
+      "price": 7,
+      "backgroundImageURL": "http://sandbox.bottlerocketapps.com/BR_iOS_CodingExam_2015_Server/Images/ramen_hakata.png"
+      
+     
+    },
+    {
+      "productId": 10,
+      "price": 12,
+      "backgroundImageURL": "http://sandbox.bottlerocketapps.com/BR_iOS_CodingExam_2015_Server/Images/ramen_hakata.png"
+      
+     
+    }
+  ]
+}
+
+
+
+
+
